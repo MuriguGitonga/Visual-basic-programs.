@@ -1,0 +1,12 @@
+C:\Users\sudai\source\repos\calc2\calc2\bin\Debug\calc2.exe.config
+C:\Users\sudai\source\repos\calc2\calc2\bin\Debug\calc2.exe
+C:\Users\sudai\source\repos\calc2\calc2\bin\Debug\calc2.pdb
+C:\Users\sudai\source\repos\calc2\calc2\bin\Debug\calc2.xml
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.vbproj.AssemblyReference.cache
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.Form1.resources
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.Resources.resources
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.vbproj.GenerateResource.cache
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.vbproj.CoreCompileInputs.cache
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.exe
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.xml
+C:\Users\sudai\source\repos\calc2\calc2\obj\Debug\calc2.pdb
